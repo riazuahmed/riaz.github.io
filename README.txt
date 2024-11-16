@@ -1,32 +1,19 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Hey there,
 
+I’m Riaz,
+a Data Analyst who loves digging into numbers and making sense of the chaos. Whether it’s building dashboards that tell a story or transforming messy data into clear insights, that’s where I come alive.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+Here’s what I’m all about:
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+🔧 Tools: Power BI, Advanced Excel – I turn complex data into something you can actually use.
 
-(* = not included)
+💻 Tech Skills: MySQL, Python (Pandas, NumPy, Matplotlib, Seaborn, Selenium, BeautifulSoap) – I work with data to find trends and insights that drive action.
 
-AJ
-aj@lkn.io | @ajlkn
+💬 What I Do Best: Communicating clearly, solving problems, adapting quickly, and making sure the data serves its purpose.
 
+I’m always experimenting, learning new tricks, and looking to collaborate. If you want to see how data can work for you, let’s chat.
 
-Credits:
+Here’s how to reach me:
+Email: ik@gmail.com
 
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+LinkedIn: https://www.linkedin.com/
